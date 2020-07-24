@@ -1,18 +1,31 @@
 <h2>Hi I'm Gabriel "CoGUMm" Vilar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-*Contact and networks*
+## Contact and networks
+<p align="center">
+  <a href="mailto:gabriel@cogumm.net" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/gmail.svg" width="30px" alt="Mail"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/cogumm/" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://instagram.com/cogumm" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/cogumm" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
+  <a href="https://t.me/cogumm" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/cogumm?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/cogumm?label=Follow)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cogumm/)](https://www.linkedin.com/in/cogumm/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/cogumm)](https://t.me/cogumm)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel@cogumm.net)](mailto:gabriel@cogumm.net)
+<summary><b>Things to know about me!</b> </summary>
+
+
+  [![Github Status](https://github-readme-stats.vercel.app/api?username=cogumm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/cogumm/cogumm)
+
+
+## Some knowledge in technologies
+
+<img src="http://labs.cogumm.net/githubassets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+
+
+## Do you play with Steam ?
+<a href="http://steamcommunity.com/id/cogumm/" target="_blank"><img src="http://labs.cogumm.net/githubassets/svg/social/steam.svg" style="vertical-align:top; margin:4px" alt="Steam"></a>
 
 <p>
     <em>
         Software Enginner at <a href="http://cogumm.net">my home</a><br />
     </em>
 </p>
-
-![Cogumm's github stats](https://github-readme-stats.vercel.app/api?username=cogumm&hide=["issues"]&show_icons=true)
