@@ -22,7 +22,7 @@
 
 
 ## Do you play ?
-<a href="http://steamcommunity.com/id/cogumm/" target="_blank"><img src="http://labs.cogumm.net/githubassets/svg/streaming/twitch.svg" style="vertical-align:top; margin:4px" alt="Twitch"></a>
+<a href="https://www.twitch.tv/xcogumm" target="_blank"><img src="http://labs.cogumm.net/githubassets/svg/streaming/twitch.svg" style="vertical-align:top; margin:4px" alt="Twitch"></a>
 <a href="http://steamcommunity.com/id/cogumm/" target="_blank"><img src="http://labs.cogumm.net/githubassets/svg/social/steam.svg" style="vertical-align:top; margin:4px" alt="Steam"></a>
 
 <p>
