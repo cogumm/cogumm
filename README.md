@@ -21,7 +21,8 @@
 <img src="http://labs.cogumm.net/githubassets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px"> <img src="http://labs.cogumm.net/githubassets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
 
 
-## Do you play with Steam ?
+## Do you play ?
+<a href="http://steamcommunity.com/id/cogumm/" target="_blank"><img src="http://labs.cogumm.net/githubassets/svg/streaming/twitch.svg" style="vertical-align:top; margin:4px" alt="Twitch"></a>
 <a href="http://steamcommunity.com/id/cogumm/" target="_blank"><img src="http://labs.cogumm.net/githubassets/svg/social/steam.svg" style="vertical-align:top; margin:4px" alt="Steam"></a>
 
 <p>
