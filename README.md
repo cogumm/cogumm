@@ -31,7 +31,7 @@
   ![Bash](https://img.shields.io/badge/-Terminal-333333?style=flat&logo=powershell)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=007ACC)
 
 <br/>
 
