@@ -58,8 +58,13 @@
 <a href="https://www.twitch.tv/xcogumm" target="_blank"><img src="http://labs.cogumm.net/githubassets/svg/streaming/twitch.svg" style="vertical-align:top; margin:4px" alt="Twitch"></a>
 <a href="http://steamcommunity.com/id/cogumm/" target="_blank"><img src="http://labs.cogumm.net/githubassets/svg/social/steam.svg" style="vertical-align:top; margin:4px" alt="Steam"></a>
 
+<h3>🧍 Visits to my profile </h3>
+  <img src="https://profile-counter.glitch.me/cogumm/count.svg" alt="hit counter" align="center">
+
 <p>
     <em>
         Software Engineer at <a href="http://cogumm.net">my home</a><br />
     </em>
 </p>
+                                                        
+
