@@ -44,6 +44,11 @@
 </a>
 
 <br/>
+                                                                                       
+[![trophy](https://github-profile-trophy.vercel.app/?username=cogumm&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)                                     
+
+
+<br/>
 
 ### Contact and networks
 <p align="center">
