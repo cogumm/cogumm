@@ -4,7 +4,6 @@
 
 - 🧭 &nbsp; Explorer of new technologies.
 - 🎓 &nbsp; I am graduated in Systems Analysis, with 14 years of experience focused on backend 💜 with PHP, Ruby / Ruby on Rails and currently focused on Node/NodeJS/React/ReactJS/React Native and I jump in Lua and do well in front-end.
-- 💼 &nbsp; I currently work as a freelancer and trying to set up my <a href="https://discord.gg/K7DPgyH">Startup</a> <img width="2%" src="https://cdn.discordapp.com/attachments/859971259677016104/862515884978077746/logo-animada.gif" alt="NovaDev"> focused on FiveM services.
 - ✍️ &nbsp; I’m looking to collaborate on FiveM and help with GTA RP Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
