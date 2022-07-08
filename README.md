@@ -56,6 +56,7 @@
   <a href="https://instagram.com/cogumm" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/cogumm" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
   <a href="https://t.me/cogumm" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
+  <a href="https://discordapp.com/users/114420862161125378" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
 </p>
 
 ## Do you play ?
