@@ -51,17 +51,17 @@
 
 ### Contact and networks
 <p align="center">
-  <a href="mailto:gabriel@cogumm.net" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/gmail.svg" width="30px" alt="Mail"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/cogumm/" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/cogumm" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/cogumm" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
-  <a href="https://t.me/cogumm" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
-  <a href="https://discordapp.com/users/114420862161125378" target="_blank"><img src="http://labs.cogumm.net/githubassets/my_svgs/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
+  <a href="mailto:gabriel@cogumm.net" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/gmail.svg" width="30px" alt="Mail"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/cogumm/" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://instagram.com/cogumm" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/cogumm" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
+  <a href="https://t.me/cogumm" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
+  <a href="https://discordapp.com/users/114420862161125378" target="_blank"><img src="https://cogumm.net/githubassets/my_svgs/discord.svg" width="30px" alt="Discord"></a> &nbsp; &nbsp;
 </p>
 
 ## Do you play ?
-<a href="https://www.twitch.tv/xcogumm" target="_blank"><img src="http://labs.cogumm.net/githubassets/svg/streaming/twitch.svg" style="vertical-align:top; margin:4px" alt="Twitch"></a>
-<a href="http://steamcommunity.com/id/cogumm/" target="_blank"><img src="http://labs.cogumm.net/githubassets/svg/social/steam.svg" style="vertical-align:top; margin:4px" alt="Steam"></a>
+<a href="https://www.twitch.tv/xcogumm" target="_blank"><img src="https://cogumm.net/githubassets/svg/streaming/twitch.svg" style="vertical-align:top; margin:4px" alt="Twitch"></a>
+<a href="http://steamcommunity.com/id/cogumm/" target="_blank"><img src="https://cogumm.net/githubassets/svg/social/steam.svg" style="vertical-align:top; margin:4px" alt="Steam"></a>
 
 <h3>🧍 Visits to my profile </h3>
   <img src="https://profile-counter.glitch.me/cogumm/count.svg" alt="hit counter" align="center">
