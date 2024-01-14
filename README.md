@@ -3,8 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🧭 &nbsp; Explorer of new technologies.
-- 🎓 &nbsp; I am graduated in Systems Analysis, with 14 years of experience focused on backend 💜 with PHP, Ruby / Ruby on Rails and currently focused on Node/NodeJS/React/ReactJS/React Native and I jump in Lua and do well in front-end.
-- ✍️ &nbsp; I’m looking to collaborate on FiveM and help with GTA RP Development.
+- 🎓 &nbsp; Professional with a diploma in Systems Analysis, accumulating more than 15 years of expertise in backend development 💜. Specialized in PHP, Ruby/Ruby on Rails, and currently focused on ReactJS, NodeJS, React Native. Extensive knowledge of relational and non-relational databases, as well as skills in configuring Linux servers. I also work with front-end development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <img width="25%" align="right" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
