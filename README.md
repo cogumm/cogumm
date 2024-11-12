@@ -4,6 +4,7 @@
 
 - 🧭 &nbsp; Explorer of new technologies.
 - 🎓 &nbsp; Professional with a diploma in Systems Analysis, accumulating more than 15 years of expertise in backend development 💜. Specialized in PHP, Ruby/Ruby on Rails, and currently focused on ReactJS, NodeJS, React Native. Extensive knowledge of relational and non-relational databases, as well as skills in configuring Linux servers. I also work with front-end development.
+- 💼 &nbsp; I'm currently a project and team manager specializing in Cfx.re services for FiveM, with a focus on optimizing workflows, coordinating development, and delivering immersive multiplayer experiences.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <img width="25%" align="right" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
